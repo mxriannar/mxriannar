@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/mxriannar">
-    <img src="https://github.com/mxriannar/mxriannar/assets/86139436/fd70f9e6-6f9e-4b4b-88da-be00e3c09445" width="300">
+    <img src="https://github.com/mxriannar/mxriannar/assets/86139436/fd70f9e6-6f9e-4b4b-88da-be00e3c09445" width="200">
 
   </a>
 </div>
