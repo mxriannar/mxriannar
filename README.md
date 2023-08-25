@@ -26,7 +26,6 @@ Estudante de programação, estou a procura de uma oportunidade para desenvolver
 
 <b>Além da programação...</b>
 
-- Sou apaixonada por gatos e atualmente tenho 06 filhos bichológicos.
 - Viciada em assistir séries, documentários e filmes... Principalmente de suspense, ação e true crimes.
 - Amo ouvir músicas, mas para trabalhar prefiro alguma playlist de Lo-Fi beat ou ASMR.
 - Gamer e entusiasta de tecnologia nas horas vagas.
@@ -52,7 +51,6 @@ Programming student, I'm looking for an opportunity to develop and apply all con
 
 <b>Beyond programming...</b>
 
-- I am passionate about cats and I currently have 06 of them.
 - Addicted to watching series, documentaries and movies... Mainly suspense, action and true crimes.
 - I love listening to music, but for work I prefer a Lo-Fi beat or ASMR playlist.
 - Gamer and technology enthusiast in my spare time.
