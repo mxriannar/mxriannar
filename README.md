@@ -59,7 +59,7 @@ Programming student, I'm looking for an opportunity to develop and apply all the
 <br>
 
 ## 🌙 Hard skills
-<b>Estou aprendendo | What I'm learning</b>
+<b>Estou estudando | What I'm learning</b>
 <br>
 <br>
 <img align="center" alt="Logo-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
