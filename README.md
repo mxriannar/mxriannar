@@ -20,7 +20,7 @@
 </div>
 <br>
 
-Estudante de programação, estou a procura de uma oportunidade para desenvolver e aplicar todo conteúdo adquirido em cursos e em experiências prévias. Trabalhei durante um ano no <b>Mercado Livre</b> como Desenvolvedora de Software Backend e atualmente estou estudando Frontend na Alura e também fazendo curso DevQuest do Dev em Dobro.
+Estudante de programação, estou a procura de uma oportunidade para desenvolver e aplicar todo conteúdo adquirido em cursos e em experiências prévias. Trabalhei durante um ano no como Desenvolvedora de Software Backend, estou cursando a faculdade de Análise e Desenvolvimento de Sistemas e atualmente estou fazendo os cursos da Alura e também DevQuest - Web full stack.
 <br>
 <br>
 
@@ -45,7 +45,7 @@ Estudante de programação, estou a procura de uma oportunidade para desenvolver
 </div>
 <br>
 
-Programming student, I'm looking for an opportunity to develop and apply all content acquired in courses and previous experiences. I worked for a year at <b>Mercado Livre</b> as a Backend Software Developer and I'm currently studying Frontend at Alura and DevQuest from Dev em Dobro.
+Programming student, I'm looking for an opportunity to develop and apply all the content acquired in courses and previous experiences. I worked for a year as a Backend Software Developer, I'm studying Systems Analysis and Development at college and I'm currently taking courses at Alura and also DevQuest - Web full stack.
 <br>
 <br>
 
