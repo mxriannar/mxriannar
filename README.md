@@ -33,7 +33,7 @@ Estudante de programação, estou a procura de uma oportunidade para desenvolver
 <br>
 <br>
 <div align="center">
-  <img align="center" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/4534/4534770.png">
+  <img align="center" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/4534/4534770.png">
 </div>
 
 <br>
@@ -62,22 +62,23 @@ Programming student, I'm looking for an opportunity to develop and apply all the
 <b>Estou estudando | What I'm learning</b>
 <br>
 <br>
-<img align="center" alt="Logo-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="Logo-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="center" alt="Logo-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" alt="Logo-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt="Logo-HTML" width="40" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML">
+<img align="center" alt="Logo-CSS" width="40" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS">
+<img align="center" alt="Logo-Js" width="40" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript">
+<img align="center" alt="Logo-Python" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python">
+<img align="center" alt="Logo-Git" width="40" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git">
 
 
 <br>
 
-<b>Conhecimentos básicos de experiência prévia | Basic knowledge from previous experience</b> 
-<br>
-<br>
-<img align="center" alt="Logo-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align="center" alt="Logo-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-<img align="center" alt="Logo-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-<img align="center" alt="Logo-NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="Logo-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-<img align="center" alt="Logo-Golang" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
-<img align="center" alt="Logo-dotNet" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
+<b>Conhecimentos básicos de experiência prévia | Basic knowledge from previous experience</b>
+            <br>
+            <br>
+            <img align="center" alt="Logo-Java" width="40" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java">
+            <img align="center" alt="Logo-Csharp" width="40" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#">
+            <img align="center" alt="Logo-React" width="40" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React">
+            <img align="center" alt="Logo-NodeJS" width="40" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS">
+            <img align="center" alt="Logo-PHP" width="40" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP">
+            <img align="center" alt="Logo-Golang" width="40" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title="Go">
+            <img align="center" alt="Logo-dotNet" width="40" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".Net">
 
