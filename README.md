@@ -1,16 +1,14 @@
-<div align="center">
-  <a href="https://github.com/mxriannar">
-    <img src="https://github.com/mxriannar/mxriannar/assets/86139436/fd70f9e6-6f9e-4b4b-88da-be00e3c09445" width="200">
-
-  </a>
+<div align='center'>
+  <h2>Oi, eu sou a Marianna Rodrigues!</h2>
+  <b>Desenvolvedora Web Full Stack</b>
 </div>
 <br>
+
 
 <div align="center">
   <!-- Social -->
   <a href="mailto:mxriannar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mxriannar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/mxriannar"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 <br>
 
@@ -20,65 +18,24 @@
 </div>
 <br>
 
-Estudante de programação, estou a procura de uma oportunidade para desenvolver e aplicar todo conteúdo adquirido em cursos e em experiências prévias. Trabalhei durante um ano no como Desenvolvedora de Software Backend, estou cursando a faculdade de Análise e Desenvolvimento de Sistemas e atualmente estou fazendo os cursos da Alura e também DevQuest - Web full stack.
+Estudante de programação, estou a procura de uma oportunidade para desenvolver e aplicar todo conteúdo adquirido em cursos e em experiências prévias. Trabalhei durante 01 ano no como Desenvolvedora de Software Backend no Mercado Livre, atualmente estou estudando Análise e Desenvolvimento de Sistemas e faço parte do <d.tech>, programa oferecido pela Escola Korú em parceria com o Potência tech powered by iFood.
 <br>
 <br>
 
 <b>Além da programação...</b>
 
-- Viciada em assistir séries, documentários e filmes... Principalmente de suspense, ação e true crimes.
-- Amo ouvir músicas, mas para trabalhar prefiro alguma playlist de Lo-Fi beat ou ASMR.
+- Gosto de assistir séries, documentários e filmes.
+- Amo ouvir músicas, mas para trabalhar prefiro Lo-Fi beat ou ASMR.
 - Gamer e entusiasta de tecnologia nas horas vagas.
 
 <br>
 <br>
-<div align="center">
-  <img align="center" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/4534/4534770.png">
+<div align=center>
+  <img align="center" alt="Logo-HTML" width="40" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML">
+  <img align="center" alt="Logo-CSS" width="40" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS">
+  <img align="center" alt="Logo-Js" width="40" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript">
+  <img align="center" alt="Logo-Python" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python">
+  <img align="center" alt="Logo-React" width="40" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React">
 </div>
 
-<br>
-<br>
-
-## 🌙 About me
-<div align='center'>
-  <b>"Life is not a problem to be solved, but a reality to be experienced." - Søren Kierkegaard</b>
-</div>
-<br>
-
-Programming student, I'm looking for an opportunity to develop and apply all the content acquired in courses and previous experiences. I worked for a year as a Backend Software Developer, I'm studying Systems Analysis and Development at college and I'm currently taking courses at Alura and also DevQuest - Web full stack.
-<br>
-<br>
-
-<b>Beyond programming...</b>
-
-- Addicted to watching series, documentaries and movies... Mainly suspense, action and true crimes.
-- I love listening to music, but for work I prefer a Lo-Fi beat or ASMR playlist.
-- Gamer and technology enthusiast in my spare time.
-
-<br>
-<br>
-
-## 🌙 Hard skills
-<b>Estou estudando | What I'm learning</b>
-<br>
-<br>
-<img align="center" alt="Logo-HTML" width="40" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML">
-<img align="center" alt="Logo-CSS" width="40" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS">
-<img align="center" alt="Logo-Js" width="40" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript">
-<img align="center" alt="Logo-Python" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python">
-<img align="center" alt="Logo-Git" width="40" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git">
-
-
-<br>
-
-<b>Conhecimentos básicos de experiência prévia | Basic knowledge from previous experience</b>
-            <br>
-            <br>
-            <img align="center" alt="Logo-Java" width="40" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java">
-            <img align="center" alt="Logo-Csharp" width="40" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#">
-            <img align="center" alt="Logo-React" width="40" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React">
-            <img align="center" alt="Logo-NodeJS" width="40" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS">
-            <img align="center" alt="Logo-PHP" width="40" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP">
-            <img align="center" alt="Logo-Golang" width="40" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title="Go">
-            <img align="center" alt="Logo-dotNet" width="40" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".Net">
 
