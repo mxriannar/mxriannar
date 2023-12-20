@@ -1,5 +1,5 @@
 <div align='center'>
-  <h2>Oi, eu sou a Marianna Rodrigues!</h2>
+  <h2>Oi, eu sou a Mari!</h2>
   <b>Desenvolvedora Web Full Stack</b>
 </div>
 <br>
