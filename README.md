@@ -18,7 +18,7 @@
 </div>
 <br>
 
-Busco por uma oportunidade para conquistar experiências desafiadoras que tragam novas perspectivas de futuro ecrescimento profissional e pessoal./
+Busco por uma oportunidade para conquistar experiências desafiadoras que tragam novas perspectivas de futuro ecrescimento profissional e pessoal.
 Estudante de Análise e Desenvolvimento de Sistemas, cursando também Desenvolvimento de Software do programa D.TECH da Escola Korú e Potência Tech powered by iFood, e Web Full Stack – DevQuest.
 <br>
 <br>
