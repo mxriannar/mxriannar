@@ -18,7 +18,8 @@
 </div>
 <br>
 
-Estudante de programação, estou a procura de uma oportunidade para desenvolver e aplicar todo conteúdo adquirido em cursos e em experiências prévias. Trabalhei durante 01 ano no como Desenvolvedora de Software Backend no Mercado Livre, atualmente estou estudando Análise e Desenvolvimento de Sistemas e faço parte do <d.tech>, programa oferecido pela Escola Korú em parceria com o Potência tech powered by iFood.
+Busco por uma oportunidade para conquistar experiências desafiadoras que tragam novas perspectivas de futuro ecrescimento profissional e pessoal./
+Estudante de Análise e Desenvolvimento de Sistemas, cursando também Desenvolvimento de Software do programa D.TECH da Escola Korú e Potência Tech powered by iFood, e Web Full Stack – DevQuest.
 <br>
 <br>
 
